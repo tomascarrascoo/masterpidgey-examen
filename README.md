@@ -3,8 +3,7 @@
 ***
 
 ### PARTE 1:
-* 1.-Clonar repositorio en local: 'git clone'.
-
+- 1.-Clonar repositorio en local: 'git clone'.
 ![captura](fotos/1-Crear repositorio.png)
 
 * 2.-Añadir comandos al README: 'nano README.md'.
