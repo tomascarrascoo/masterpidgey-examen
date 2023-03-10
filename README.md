@@ -4,7 +4,7 @@
 
 ### PARTE 1:
 - 1.-Clonar repositorio en local: 'git clone'.
-![fotos](fotos/1-Crear repositorio.png)
+![fotos](https://github.com/tomascarrascoo/masterpidgey-examen/blob/main/fotos/1-Crear%20repositorio.png)
 
 * 2.-Añadir comandos al README: 'nano README.md'.
 * 3.-Realizar un commit inicial: 'git commit -m "commit incial"'.
