@@ -1,5 +1,6 @@
 # masterpidgey-examen
 
+PARTE 1:
 1.-Clonar repositorio en local: 'git clone'.
 2.-Añadir comandos al README: 'nano README.md'.
 3.-Realizar un commit inicial: 'git commit -m "commit incial"'.
@@ -15,3 +16,11 @@
 |       NOMBRE           |                  GITHUB                 |
 | ---------------------  | --------------------------------------- | 
 | Maximo Fernandez Riera | https://github.com/maximofernandezriera |
+
+
+PARTE 2:
+1.-Clonar repositorio: 'git clone'
+2.-Crear una rama: 'git checkout -b add-tomas-carrasco'
+3.-Agregar mi nombre al Contributors: 'nano Contributors.md'
+4.-Hacer commit: 'git add Contributors.md', 'git commit'
+5.-Hacer push: 'git push origin add-tomas-carrasco'
