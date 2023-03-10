@@ -14,5 +14,4 @@
 12.-Crear una tabla:
 |       NOMBRE           |                  GITHUB                 |
 | ---------------------  | --------------------------------------- | 
-| Maximo Fernandez Riera | https://github.com/maximofernandezriera | 
-13.-
+| Maximo Fernandez Riera | https://github.com/maximofernandezriera |
