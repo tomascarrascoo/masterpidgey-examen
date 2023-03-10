@@ -4,6 +4,7 @@
 
 ### PARTE 1:
 * 1.-Clonar repositorio en local: 'git clone'.
+![captura] (fotos/1-Crear repositorio.png)
 * 2.-Añadir comandos al README: 'nano README.md'.
 * 3.-Realizar un commit inicial: 'git commit -m "commit incial"'.
 * 4.-Push incial: 'git add README.md', 'git push'.
