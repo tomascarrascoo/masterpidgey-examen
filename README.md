@@ -1,5 +1,7 @@
 <h1 align="center"> # EXAMEN 2 EVALUACION ENTORNOS DE DESARROLLO </h1>
+
 ***
+
 ### PARTE 1:
 * 1.-Clonar repositorio en local: 'git clone'.
 * 2.-Añadir comandos al README: 'nano README.md'.
