@@ -9,5 +9,10 @@
 7.-Añadir 1.txt: 'touch '1.txt''.
 8.-Ver commits realizados hasta el momento: 'git log'.
 9.-Crear tag: 'git tag -a v0.1'
-10.-Subir los cambios al repositorio: 
-
+10.-Subir los cambios al repositorio: 'git commit', 'git push origin main'.
+11.-Visualizar de nuevo historial de commit: 'git log'.
+12.-Crear una tabla:
+|       NOMBRE           |                  GITHUB                 |
+| ---------------------  | --------------------------------------- | 
+| Maximo Fernandez Riera | https://github.com/maximofernandezriera | 
+13.-
