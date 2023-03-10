@@ -15,9 +15,9 @@
 * 10.-Subir los cambios al repositorio: 'git commit', 'git push origin main'.
 * 11.-Visualizar de nuevo historial de commit: 'git log'.
 * 12.-Crear una tabla:
-|       NOMBRE           |                  GITHUB                 |
-| ---------------------  | --------------------------------------- | 
-| Maximo Fernandez Riera | https://github.com/maximofernandezriera |
+* |       NOMBRE           |                  GITHUB                 |
+* | ---------------------  | --------------------------------------- | 
+* | Maximo Fernandez Riera | https://github.com/maximofernandezriera |
 
 ***
 
